@@ -12,6 +12,15 @@ This project explores how structured data validation, automated reconciliation r
 
 ---
 
+## 📊 Project Dashboard
+
+The dashboard below summarizes the reconciliation workflow, exception categories, control framework, and results produced by the solution.
+
+![AI-Assisted Regulatory Data Reconciliation Dashboard](AI-Assisted%20Regulatory%20Data%20Reconciliation%20Dashboard.png)
+
+The solution compares reporting data across multiple sources, identifies reconciliation exceptions, classifies the underlying issue, and produces structured results for analyst review.
+
+---
 ## 🎯 Business Problem
 
 A simulated financial institution prepares quarterly financial information using data received from multiple sources.
