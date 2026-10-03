@@ -28,7 +28,7 @@ My focus is not simply on using AI tools, but on designing, testing, evaluating,
 ---
 ## 🚀 Featured Projects
 
-### 🎸 01 — BassStart: AI-Assisted Bass Learning Website
+### 🎸 01 — [BassStart: AI-Assisted Bass Learning Website](./01_BassStart_AI_Website)
 
 BassStart is an interactive bass-guitar learning website developed through an AI-assisted development workflow.
 
@@ -58,7 +58,7 @@ The platform provides a structured learning experience covering bass technique, 
 
 ---
 
-### 🧠 02 — Bass Guitar Instructor: Custom AI Skill
+### 🧠 02 — [Bass Guitar Instructor: Custom AI Skill](./02_Bass_Guitar_Instructor_AI_Skill)
 
 Designed and tested a reusable AI skill that transforms an AI assistant into a structured bass-guitar instructor and practice coach.
 
