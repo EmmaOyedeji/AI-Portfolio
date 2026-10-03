@@ -1,0 +1,11 @@
+record_id,reconciliation_status,variance,issue_description
+R001,Amount Variance,25000,Reported amounts differ between Source A and Source B
+R002,Exact Match,0,None
+R003,Exact Match,0,None
+R004,Exact Match,0,None
+R005,Amount Variance,15000,Reported amounts differ between Source A and Source B
+R006,Attribute Mismatch,0,Business unit differs between sources
+R007,Exact Match,0,None
+R008,Missing Record,0,Record exists in Source A but is missing from Source B
+R009,Exact Match,0,None
+R010,Duplicate Record,0,Record appears more than once in Source B
