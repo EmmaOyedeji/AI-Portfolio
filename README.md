@@ -11,7 +11,21 @@ This portfolio showcases projects where I apply artificial intelligence, structu
 My focus is not simply on using AI tools, but on designing, testing, evaluating, and improving AI-assisted solutions.
 
 ---
+---
 
+## 🧰 AI & Technology Stack
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-AI%20Development-412991?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-Structured%20Prompting-blue?style=flat-square)
+![AI Skills](https://img.shields.io/badge/AI%20Skills-Custom%20Skill%20Design-purple?style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-181717?style=flat-square)
+![Netlify](https://img.shields.io/badge/Netlify-Deployment-00C7B7?style=flat-square)
+![Testing](https://img.shields.io/badge/AI%20Testing-Beginner%20%7C%20Intermediate%20%7C%20Advanced-success?style=flat-square)
+
+**Core Capabilities:**  
+`AI-Assisted Development` · `Prompt Engineering` · `AI Skill Design` · `Workflow Design` · `Testing & Validation` · `Web Development` · `Deployment`
+
+---
 ## 🚀 Featured Projects
 
 ### 🎸 01 — BassStart: AI-Assisted Bass Learning Website
