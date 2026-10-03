@@ -1,3 +1,5 @@
+![Emmanuel Oyedeji Applied AI Portfolio](Applied%20AI%20Portfolio_%20BassStart%20and%20AI%20Instructor.png)
+
 # 🤖 Emmanuel Oyedeji — Applied AI Portfolio
 
 ## Building Practical AI Solutions for Real-World Problems
