@@ -1,0 +1,11 @@
+record_id,business_unit,reporting_period,metric_name,reported_amount,currency
+R001,Consumer Banking,2026-Q2,Net Interest Income,1275000,USD
+R002,Commercial Banking,2026-Q2,Net Interest Income,2100000,USD
+R003,Consumer Banking,2026-Q2,Noninterest Income,875000,USD
+R004,Commercial Banking,2026-Q2,Noninterest Income,1325000,USD
+R005,Consumer Banking,2026-Q2,Operating Expense,955000,USD
+R006,Commercial Bank,2026-Q2,Operating Expense,1180000,USD
+R007,Consumer Banking,2026-Q2,Total Loans,15750000,USD
+R009,Consumer Banking,2026-Q2,Total Deposits,18600000,USD
+R010,Commercial Banking,2026-Q2,Total Deposits,25300000,USD
+R010,Commercial Banking,2026-Q2,Total Deposits,25300000,USD
